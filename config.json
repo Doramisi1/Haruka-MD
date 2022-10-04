@@ -1,8 +1,8 @@
 {
     "ownerNumber": ["622150996855@s.whatsapp.net","622150996855@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
+    "ownerName": "ᴹᴿ᭄ ghost-bot-Ofcོ ×፝֟͜×",
     "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
+    "botName": "ghost-Mdོ ",
     "footer": "api.zeeoneofc.xyz",
     "sessionName": "session",
     "pathimg": "./media/Haruka.jpg",
@@ -15,9 +15,9 @@
     "autoblok212": true,
     "autoread": true,
     "gamewaktu": 90,
-    "limitCount": 25,
+    "limitCount": 1000,
     "gcount": {
-        "prem": 1000,
-        "user": 15
+        "prem": 10000,
+        "user": 1000
     }
 }
